@@ -1,5 +1,6 @@
 /**
- * Author : Bini16 and Min2u
+ * File: builtins_help_1.c 
+ * Auth: Bini16 and Min2u
  */
 
 #include "shell.h"
